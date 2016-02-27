@@ -255,7 +255,7 @@ function create_config( )
     "txt2img",
     "webshot",
     },
-	    sudo_users = {41471906},--Sudo users
+	    sudo_users = {41471906,172178919},--Sudo users
     disabled_channels = {},
     moderation = {data = 'data/moderation.json'},
     about_text = [[
