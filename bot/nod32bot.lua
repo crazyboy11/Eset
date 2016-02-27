@@ -327,8 +327,8 @@ Only sudo users can run this command
 !bc 123456789 Hello !
 This command will send text to [group_id]
 
-ch: @appfreebazar12
-id admin: @Xx0_amin_oxX
+ch: @premiumkade
+id admins: @crazyboy10 ,  @Xx0_amin_oxX
 id admin for reports: @Xx0_amin_oxX_bot
 
 ]],
@@ -527,9 +527,8 @@ Commands list :
 you can use both "/" and "!" 
 .شما میتوانید از ! و / استفاده کنید
 
-channel: @appfreebazar12
-bot: @hamechighati_bot
-id admin: @Xx0_amin_oxX
+channel: @premiumkad
+id admin: @crazyboy10 , @Xx0_amin_oxX
 id admin for reports: @Xx0_amin_oxX_bot
 
 G00D LUCK ^_^
